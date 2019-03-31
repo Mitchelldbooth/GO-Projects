@@ -1,2 +1,2 @@
 # GO-Projects
-projects and examples as I explore the world of goland
+projects and examples as I explore the world of golang
