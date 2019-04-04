@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/GO-Projects/packages/strUtil"
+	"github.com/GO-Projects/BasicStuff/packages/strUtil"
 )
 
 func main() {
